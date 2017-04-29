@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					DDAA60331EB4308F0019EF20 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = SJVALSCJ57;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SJVALSCJ57;
 				INFOPLIST_FILE = BMICaluculation_for_iOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.masatoshi.BMICaluculation-for-iOS";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SJVALSCJ57;
 				INFOPLIST_FILE = BMICaluculation_for_iOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.masatoshi.BMICaluculation-for-iOS";
